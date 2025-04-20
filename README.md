@@ -1,8 +1,8 @@
 # 👨‍💻 Mubashar Azad | Software Engineer
 
 🔗 LinkedIn: https://www.linkedin.com/in/mubashar-azad  
-✉️ *mubasharazad3@gmail.com*  
-📞 *+92 315 3375533* 
+✉️ Email: *mubasharazad3@gmail.com*  
+📞 Phone: *+92 315 3375533* 
 
 ---
 
