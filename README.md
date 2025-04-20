@@ -1,7 +1,6 @@
 # 👨‍💻 Mubashar Azad | Software Engineer
 
 ![LinkedIn](https://www.linkedin.com/in/mubashar-azad)  
-![GitHub](https://github.com/mubasharazad12)  
 📞 *+92 315 3375533*  
 ✉️ *mubasharazad3@gmail.com*
 
@@ -103,5 +102,3 @@ Feel free to reach out for collaboration, mentoring, or project opportunities. I
 ## 💬 "Strive for progress, not perfection."
 
 ---
-
-This `README.md` not only includes your expertise but also makes the layout visually appealing and easy to navigate, with key sections to highlight your skills, experience, and notable projects. It includes badges to add a professional touch and links to your contact information and GitHub profile. You can also customize this further with additional stats or your favorite tools!
