@@ -1,6 +1,6 @@
 # 👨‍💻 Mubashar Azad | Software Engineer
 
-![LinkedIn](https://www.linkedin.com/in/mubashar-azad)  
+[![LinkedIn]](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/mubashar-azad)  
 📞 *+92 315 3375533*  
 ✉️ *mubasharazad3@gmail.com*
 
