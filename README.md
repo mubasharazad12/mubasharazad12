@@ -1,7 +1,5 @@
 # 👨‍💻 Mubashar Azad | Software Engineer
 
----
-
 ## About Me
 
 Experienced *Software Engineer* with a passion for *front-end development*. Skilled in building user-friendly, scalable web applications using *ReactJS*, *Vanilla JS*, *TypeScript*, and *Tailwind CSS*. Proficient in *PHP*, *Django*, and *Adobe ColdFusion* for backend development. I thrive in collaborative environments and enjoy tackling challenging problems to create seamless user experiences.
