@@ -1,6 +1,6 @@
 # 👨‍💻 Mubashar Azad | Software Engineer
 
-<h2 align="center">🤝 Connect with Me</h2>
+<h2 align="left">🤝 Connect with Me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mubashar-azad" target="_blank">
