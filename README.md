@@ -2,7 +2,7 @@
 
 <h2 align="center">🤝 Connect with Me</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mubashar-azad" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="tel:+923153375533" style="text-decoration: none;">
     📱 <strong>+92 315 3375533</strong>
   </a>  
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   💻 <i>Let’s build something amazing together!</i>
 </p>
 
