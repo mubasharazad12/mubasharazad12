@@ -1,31 +1,5 @@
 # 👨‍💻 Mubashar Azad | Software Engineer
 
-<h2 align="left">🤝 Connect with Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mubashar-azad" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mubasharazad12" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="tel:+923153375533" style="text-decoration: none;">
-    📱 <strong>+92 315 3375533</strong>
-  </a>  
-  &nbsp;•&nbsp;  
-  <a href="mailto:mubasharazad3@gmail.com" style="text-decoration: none;">
-    📧 <strong>mubasharazad3@gmail.com</strong>
-  </a>
-</p>
-
-<p align="left">
-  💻 <i>Let’s build something amazing together!</i>
-</p>
-
 ---
 
 ## About Me
@@ -116,6 +90,29 @@ Recognized as the top performer across international Dev & QA teams at *Techtron
 ---
 
 ## 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/mubashar-azad" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mubasharazad12" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="tel:+923153375533" style="text-decoration: none;">
+    📱 <strong>+92 315 3375533</strong>
+  </a>  
+  &nbsp;•&nbsp;  
+  <a href="mailto:mubasharazad3@gmail.com" style="text-decoration: none;">
+    📧 <strong>mubasharazad3@gmail.com</strong>
+  </a>
+</p>
+
+<p align="left">
+  💻 <i>Let’s build something amazing together!</i>
+</p>
 
 Feel free to reach out for collaboration, mentoring, or project opportunities. I’m always excited to connect with like-minded professionals and contribute to impactful projects!
 
