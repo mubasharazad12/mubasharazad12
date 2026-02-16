@@ -1,20 +1,11 @@
-# 👨‍💻 Mubashar Azad | Software Engineer
+# Mubashar Azad | Software Engineer
 
 ## About Me
 
 Experienced *Software Engineer* with a passion for *front-end development*. Skilled in building user-friendly, scalable web applications using *ReactJS*, *Vanilla JS*, *TypeScript*, and *Tailwind CSS*. Proficient in *PHP*, *Django*, and *Adobe ColdFusion* for backend development. I thrive in collaborative environments and enjoy tackling challenging problems to create seamless user experiences.
 
 I am committed to writing clean, maintainable code and continuously improving my skills to stay ahead of emerging technologies.
-
 ---
-
-## Awards & Recognitions
-
-*All-Star of Q3 – Best Performer Award*  
-Recognized as the top performer across international Dev & QA teams at *Techtronix Corp*.
-
----
-
 ## Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/mubashar-azad" target="_blank">
