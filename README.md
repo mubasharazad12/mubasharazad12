@@ -12,8 +12,8 @@ I am committed to writing clean, maintainable code and continuously improving my
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/mubasharazad12" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://mubasharazad12.github.io/mubashar-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
 
