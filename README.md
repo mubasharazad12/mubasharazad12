@@ -32,5 +32,3 @@ I am committed to writing clean, maintainable code and continuously improving my
 </p>
 
 Feel free to reach out for collaboration, mentoring, or project opportunities. I’m always excited to connect with like-minded professionals and contribute to impactful projects!
-
----
