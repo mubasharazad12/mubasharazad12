@@ -25,53 +25,6 @@ I am committed to writing clean, maintainable code and continuously improving my
 
 ---
 
-## 💼 Experience
-
-### *Techtronix Corp* — Software Engineer (Web Developer)  
-Oct 2021 – Present  
-- Designed and implemented responsive user interfaces with *ReactJS*, *SCSS*, and *Tailwind CSS*.
-- Created reusable, modular components using *TypeScript* and *shadcn/UI*, enhancing maintainability.
-- Integrated dynamic data visualizations using *Chart.js*, improving dashboard interactivity.
-- Developed secure and scalable *RESTful APIs* with *ColdFusion* to support frontend features.
-- Collaborated in Agile sprints, leading code reviews and improving team productivity by 25%.
-
-### *VentureDive* — Automation Engineer  
-Jul 2022 – Sep 2022  
-- Automated high-priority UI flows using *Selenium*, improving test coverage by 40%.
-- Contributed to test plans and collaborated with developers to ensure bug-free releases.
-
-### *Fiverr* — Freelance Web Developer  
-Dec 2020 – Jun 2021  
-- Built dynamic, responsive web applications for clients using *ReactJS*, *Django*, and *Tailwind CSS*.
-- Managed complete project lifecycle from design to deployment, delivering high-quality web solutions.
-
----
-
-## 🛠️ Projects
-
-### 🎟️ *GMC (Ticket Manager)*  
-- Led the redesign of the website to a fully responsive, user-friendly interface using *JavaScript* and *jQuery*.
-- Integrated *ColdFusion* for backend functionality, streamlining ticketing processes.
-- Improved web performance by optimizing asset bundling with *Webpack*.
-
-### 🪑 *Seating Chart Application (USTA)*  
-- Developed an interactive seating chart with *Vanilla JS*, allowing dynamic seat selection and real-time updates.
-- Used local storage for session continuity, enhancing user experience across devices.
-
-### 🔗 *GMC + TMan System Integration*  
-- Designed and integrated APIs for seamless synchronization of event data between *GMC* and *TMan* systems.
-- Developed front-end components using *HTML*, *SCSS*, and *JavaScript*, improving operational efficiency.
-
-### 💳 *Alipay x Stripe Integration (Laver Cup)*  
-- Built a *ReactJS* solution for integrating *Alipay* payments into **Stripe**’s infrastructure.
-- Ensured secure transaction handling and UI state preservation across redirections using *React hooks*.
-
-### ✅ *DHL Compliance Portal*  
-- Designed a centralized *ReactJS* portal for compliance management, improving efficiency by consolidating multiple systems.
-- Integrated *SSO authentication*, ensuring secure access for users.
-
----
-
 ## 🎓 Education
 
 *B.S. in Computer Science*  
