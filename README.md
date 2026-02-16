@@ -8,39 +8,14 @@ I am committed to writing clean, maintainable code and continuously improving my
 
 ---
 
-## 🚀 Skills
-
-### *Frontend:*
-- *Languages & Frameworks:* HTML5, CSS3, JavaScript (ES6+), *ReactJS*, *Vanilla JS*, *TypeScript*
-- *Styling:* SCSS, *Tailwind CSS*
-- *Tools:* Git, GitHub, Firebase, MySQL, Chart.js, *shadcn/UI*
-
-### *Backend:*
-- *Languages & Frameworks:* *PHP*, *Django*, *Adobe ColdFusion*
-- *API Integration:* RESTful Services, *AJAX*
-
-### *Other:*
-- *Game Development:* Unity (for game projects)
-- *Version Control:* Git, GitHub
-
----
-
-## 🎓 Education
-
-*B.S. in Computer Science*  
-Riphah International University, Islamabad  
-2017 – 2021
-
----
-
-## 🏆 Awards & Recognitions
+## Awards & Recognitions
 
 *All-Star of Q3 – Best Performer Award*  
 Recognized as the top performer across international Dev & QA teams at *Techtronix Corp*.
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/mubashar-azad" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -57,7 +32,7 @@ Recognized as the top performer across international Dev & QA teams at *Techtron
   </a>  
   &nbsp;•&nbsp;  
   <a href="mailto:mubasharazad3@gmail.com" style="text-decoration: none;">
-    📧 <strong>mubasharazad3@gmail.com</strong>
+    📧 <strong>mubasharazad33@gmail.com</strong>
   </a>
 </p>
 
@@ -66,9 +41,5 @@ Recognized as the top performer across international Dev & QA teams at *Techtron
 </p>
 
 Feel free to reach out for collaboration, mentoring, or project opportunities. I’m always excited to connect with like-minded professionals and contribute to impactful projects!
-
----
-
-## 💬 "Strive for progress, not perfection."
 
 ---
